@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = "movie-api-production-d361.up.railway.app/api/movies";
+const API_BASE_URL = "https://movie1.up.railway.app/api/movies";
 
 // State Management
 let currentMovies = [];
